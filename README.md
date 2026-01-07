@@ -1,8 +1,9 @@
 # 📚 Open eBook Collection
 
-[![Contributors](https://img.shields.io/github/contributors/mehedi-hasan1102/open-ebooks?color=4CAF50&style=flat-square)](https://github.com/mehedi-hasan1102/open-ebooks/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/mehedi-hasan1102/open-ebooks-collection?color=4CAF50&style=flat-square)](https://github.com/mehedi-hasan1102/open-ebooks-collection/graphs/contributors)
 [![License](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-blue?style=flat-square)](LICENSE)
-[![Repo Size](https://img.shields.io/github/repo-size/mehedi-hasan1102/open-ebooks?style=flat-square)](https://github.com/mehedi-hasan1102/open-ebooks)
+[![Repo Size](https://img.shields.io/github/repo-size/mehedi-hasan1102/open-ebooks-collection?style=flat-square)](https://github.com/mehedi-hasan1102/open-ebooks-collec)
+
 
 Welcome to the **Open eBook Collection** — a collaborative, open-source repository of freely-distributable eBooks. Anyone can contribute their favorite books, organized by **genre** and **year**.
 
